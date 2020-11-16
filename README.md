@@ -1,2 +1,2 @@
-# Dani El-Ayyass Blog
+# My personal blog
 https://dayyass.github.io
