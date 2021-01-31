@@ -17,7 +17,7 @@ This issue could be solved using logits of shape [batch_size, 2] in the binary c
 
 Link to the gist [here](https://gist.github.com/dayyass/f85a339111bbdd1b96e7ce632fe17d90).
 
-```
+``` python
 import torch
 import torch.nn as nn
 
