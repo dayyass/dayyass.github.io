@@ -12,7 +12,7 @@ Link to the code [here](https://gist.github.com/dayyass/6d8f9f85f22a7d8e4179e18f
 
 Examples (images 2d):
 
-```
+``` python
 class GlobalAvgPool2d(nn.Module):
     """
     Reduce mean over last two dimensions.
