@@ -10,7 +10,7 @@ I hope that for some of you they will make ONNX exporting easier.
 
 Link to the code [here](https://gist.github.com/dayyass/6d8f9f85f22a7d8e4179e18f624a652f).
 
-Examples:
+Examples (images 2d):
 
 ```
 class GlobalAvgPool2d(nn.Module):
