@@ -8,7 +8,7 @@ While working on exporting PyTorch models to ONNX, my colleagues and I encounter
 Therefore, to work around this problem, we decided to replace AdaptivePooling with GlobalPooling, and I wrote helper classes that can be used in PyTorch models.
 I hope that for some of you they will make ONNX exporting easier.
 
-Link to code [here](https://gist.github.com/dayyass/6d8f9f85f22a7d8e4179e18f624a652f).
+Link to the code [here](https://gist.github.com/dayyass/6d8f9f85f22a7d8e4179e18f624a652f).
 
 Examples:
 
